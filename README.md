@@ -17,6 +17,7 @@ Contents:
 
 - `artifacts/ai-agent-toolkit-rhel9-x64.tar.gz.part-*`
 - `artifacts/ai-agent-toolkit-rhel9-x64.tar.gz.sha256`
+- `CLAUDE-IN-CONTAINER.md`
 
 Install on the target machine:
 
